@@ -1,0 +1,15 @@
+{
+  "name": "midiprogram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tonaljs/tonal": "^3.7.2",
+    "midi-writer-js": "^1.7.2"
+  }
+}
