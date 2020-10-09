@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@tonaljs/tonal": "^3.7.2",
-    "midi-writer-js": "^1.7.2"
+    "midi-writer-js": "^1.7.4"
   }
 }
